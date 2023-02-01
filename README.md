@@ -6,3 +6,9 @@
 1.手写MVVM
 
 2.Promise
+
+3.Promise.resolve、Promise.reject、Promise.all
+
+4.发布订阅
+
+5.深拷贝
