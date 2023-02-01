@@ -3,12 +3,21 @@
 
 目前手写轮子：
 
-1.手写MVVM
+1.实现“MVVM”模式
 
-2.Promise
+2.实现ES6中的Promise对象
 
-3.Promise.resolve、Promise.reject、Promise.all
+3.实现Promise对象的相关API
+1）Promise.resolve
+2）Promise.reject
+3）Promise.all
 
 4.发布订阅
 
-5.深拷贝
+5.工具函数：
+1）深拷贝
+2）数组去重
+3）防抖函数、截流函数
+4）封装一个可用的Ajax
+
+
